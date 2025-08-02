@@ -1,16 +1,31 @@
-# developers_hub_week3
+# 📝 DeveloperHub - Week 3: Task Management App
 
-A new Flutter project.
+## 📌 Overview
 
-## Getting Started
+This Flutter app is the final project for **Week 3** of the DeveloperHub internship program. It combines the concepts learned in previous weeks into a fully functional **Task Management App**.
 
-This project is a starting point for a Flutter application.
+### ✅ Features
 
-A few resources to get you started if this is your first Flutter project:
+- View a list of tasks on the Home screen  
+- Add new tasks  
+- Delete tasks  
+- Mark tasks as complete (✔️ Completed tasks automatically move to the bottom)
+- Tasks are saved using **SharedPreferences** (local persistence)
+- Custom AppBar with title and add-task button
+- Enhanced UI using basic icons and clean layout
+- Added Splash Screen
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🎯 Learning Objectives
+
+- Apply Flutter concepts in a complete app
+- Test, debug, and improve app performance
+- Use persistent local storage with SharedPreferences
+- Improve user experience with simple, clean UI
+
+---
+
+## Video Link
+
+https://drive.google.com/drive/folders/1WZWSKZqXAVZA7EjYCsM7jaSTzl0u0Y9p?usp=sharing
